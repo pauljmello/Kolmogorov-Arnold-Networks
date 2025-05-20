@@ -52,3 +52,16 @@ pip install torch matplotlib numpy
 ---
 
 Explore the code, tweak the parameters, and discover how KANs can improve your tasks!
+
+
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@software{pjmKAN2024,
+  author = {Paul J Mello},
+  title = {Kolmogorov-Arnold Networks},
+  url = {https://github.com/pauljmello/Kolmogorov-Arnold-Networks},
+  year = {2024},
+}
