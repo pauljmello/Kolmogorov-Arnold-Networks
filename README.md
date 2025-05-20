@@ -13,8 +13,6 @@ This approach offers improved accuracy and interpretability over traditional mod
 
 ## Usage
 
-### Time Series Prediction
-
 ```python
 import torch
 from kan import KAN
@@ -36,7 +34,7 @@ model, losses = KAN.train(model, train_loader, val_loader, epochs=100, learning_
 visualize_results(model, sample_data, save_dir='images')
 ```
 
-### Function Approximation
+### Results
 
 ![Training and Validation Loss](images/training_validation_loss.png)
 
