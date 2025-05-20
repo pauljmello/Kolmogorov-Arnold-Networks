@@ -17,7 +17,7 @@ This approach offers improved accuracy and interpretability over traditional mod
 
 ```python
 import torch
-from KAN import KAN
+from kan import KAN
 from utils import prepare_data, visualize_results
 
 # Model configuration
